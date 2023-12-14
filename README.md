@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, my name is Alisher. I'm Python Developer.
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=Alenlol&show_icons=true&theme=dark"
